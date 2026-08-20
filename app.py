@@ -10,7 +10,6 @@ BASE_DOMAIN = "https://freeporno.xxx"
 
 # Add as many categories here as you want, and specify the exact filename for each
 CATEGORIES_TO_SCRAPE = [
-    {"url": "https://freeporno.xxx/sister", "name": "sister", "filename": "db.json"},
     {"url": "https://freeporno.xxx/teen", "name": "teen", "filename": "db2.json"},
     {"url": "https://freeporno.xxx/hardcore", "name": "hardcore", "filename": "db3.json"},
     {"url": "https://freeporno.xxx/russian", "name": "russian", "filename": "db4.json"}
